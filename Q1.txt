@@ -1,0 +1,78 @@
+São Paulo  
+29  
+10  
+Rio de Janeiro  
+24  
+5  
+Minas Gerais  
+28  
+8  
+Bahia  
+27  
+7  
+Paraná  
+22  
+3  
+Rio Grande do Sul  
+26  
+6  
+Santa Catarina  
+25  
+4  
+Goiás  
+21  
+1  
+Pernambuco  
+20  
+2  
+Ceará  
+19  
+3  
+Pará  
+30  
+10  
+Maranhão  
+23  
+5  
+Mato Grosso  
+29  
+9  
+Mato Grosso do Sul  
+18  
+2  
+Espírito Santo  
+27  
+6  
+Paraíba  
+17  
+1  
+Amazonas  
+26  
+6  
+Alagoas  
+25  
+5  
+Piauí  
+24  
+4  
+Rio Grande do Norte  
+22  
+5  
+Sergipe  
+21  
+4  
+Rondônia  
+30  
+5  
+Acre  
+19  
+2  
+Tocantins  
+18  
+1  
+Roraima  
+15  
+2  
+Amapá  
+16  
+3  
